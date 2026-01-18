@@ -1,6 +1,9 @@
 # 8bitcomputer-sim
-8bit computer from NAND  in Digital Logic Sim by sebastian lague
 
-This is a Documentation of my journey building a simple 8 bit computer
+This repository documents my journey building a simple **8-bit computer** using only NAND gates in **Digital Logic Sim**, following **Sebastian Lague's tutorial**.
 
-Stay tuned for updates!!!!!😊
+## About
+The project is a step-by-step exploration of digital logic, CPU design, and 8-bit computing, built entirely from scratch.  
+
+## Status
+Work in progress. Stay tuned for updates! 😊
