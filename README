@@ -1,10 +1,9 @@
-# 8bitcomputer-DLS
-This project is made in Digital Logic Sim (DLS)
+# T808 (8-bit Computer)
+The T808 is an 8-bit CPU built entirely from scratch using only NAND gates.
 
-This repository documents my journey building a simple **8-bit computer** using only NAND gates in **Digital Logic Sim**.
 
 ## About
-The project is a step-by-step exploration of digital logic, CPU design, and 8-bit computing, built entirely from scratch.  
+This repository documents my journey building a simple **8-bit computer** using only NAND gates in **Digital Logic Sim**.
 
 ## Status
 Work in progress. Stay tuned for updates! 😊
