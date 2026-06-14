@@ -1,9 +1,12 @@
 # T808 (8-bit Computer)
-The T808 is an 8-bit CPU built entirely from scratch using only NAND gates.
+The T808 is an 8-bit CPU built entirely from scratch .
 
 
 ## About
-This repository documents my journey building a simple **8-bit computer** using only NAND gates in **Digital Logic Sim**.
+This repository documents my journey building a simple **8-bit computer**  in **Digital Logic Sim**.
 
 ## Status
-Work in progress. Stay tuned for updates! 😊
+V1 completed
+
+## Further steps
+There are many bugs found in ALU and Control unit , which will be solved in V2
